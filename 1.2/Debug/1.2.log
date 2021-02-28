@@ -1,0 +1,8 @@
+﻿  kvadratnamatr.cpp
+E:\pr\1.2\1.2\kvadratnamatr.cpp(35,27): warning C4018: '<': signed/unsigned mismatch
+E:\pr\1.2\1.2\kvadratnamatr.cpp(45,31): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+E:\pr\1.2\1.2\kvadratnamatr.cpp(35,27): warning C4018: '<': signed/unsigned mismatch
+E:\pr\1.2\1.2\kvadratnamatr.cpp(45,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  1.2.vcxproj -> E:\pr\1.2\Debug\1.2.exe
